@@ -1,2 +1,2 @@
 git is awesome!
-newline
+newline1
